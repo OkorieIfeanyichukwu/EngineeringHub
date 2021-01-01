@@ -9,4 +9,4 @@ This website is targeted towards engineering students. You find basic laws,formu
 
 This project is currently focusing on everything electrical engineering.
 
-[Click me to view the site layout](https://okorieifeanyichukwu.github.io/engineeringhub)
+[Click me to view the site layout](https://okorieifeanyichukwu.github.io/EngineeringHub/)
