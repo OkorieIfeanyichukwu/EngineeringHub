@@ -1,5 +1,5 @@
-## EngineeringHuwbsite 
-This website is targeted to engineering students. You find basic laws,formulars,components and element descriptions,applications,problems and solutions,etc.
+## EngineeringHubWebsite 
+This website is targeted towards engineering students. You find basic laws,formulars,components and element descriptions,applications,problems and solutions,etc.
 ### Departments Targeted
 * Eletrical Engineering
 * Computer Engineering/science
